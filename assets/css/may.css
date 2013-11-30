@@ -27,6 +27,13 @@ div#header.section h1 a {
 	float: left;
 	margin: 10px 0px 0px 20px;
 }
+h2 {
+	margin: 40px 40px 20px 45px;
+	float: left;
+	font-size: 1.6em;
+	font-weight: 1000;
+	text-decoration: underline;
+}
 #sidebar, #main_content, #footer {
 	font-family: 'Donegal One';
 }
@@ -63,15 +70,26 @@ li {
 }
 #main_content p {
 	margin: 10px 10px 0px;
-	height: 80px;
 	font-size: 1.2em;
-
+	padding: 10px 35px 10px 15px;
+}
+#main_content p.fix_height {
+	height: 80px;
+	padding: 10px 0px 0px 0px;
+}
+#main_content p.clear {
+	clear: both;
 }
 #main_content img {
 	float: left;
-	margin: 0px 10px;
+	margin: 10px 10px;
 	height: 80px;
 	clear: both;
+}
+#main_content img.ninja {
+	float: left;
+	clear: none;
+	padding: 5px 20px;
 }
 #footer p {
 	padding: 20px;
