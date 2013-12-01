@@ -31,7 +31,6 @@ h2 {
 	margin: 40px 40px 20px 45px;
 	float: left;
 	font-size: 1.6em;
-	font-weight: 1000;
 	text-decoration: underline;
 }
 #sidebar, #main_content, #footer {
@@ -107,4 +106,18 @@ li {
 }
 #footer p {
 	padding: 20px;
+}
+h3.project_title {
+	margin: 20px 0px 0px 20px;
+	text-decoration: underline;
+	font-size: 1.3em;
+}
+div#main_content p.project_link, div#main_content p.project_explanation {
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 0;
+}
+div#main_content p.project_explanation {
+	font-size: 1em;
+
 }

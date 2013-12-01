@@ -28,7 +28,7 @@
 				});
 				$(document).on('mouseleave', 'img.to_sepia', function() {
 					var img_link = $(this).attr('src')
-					$(this).attr('src', img_link.replace("_sepia", ""));
+					$(this).attr('src', img_link.replace('_sepia', ''));
 				});
 
 			});
