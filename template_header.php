@@ -47,7 +47,7 @@
 				<ul>
 					<div id="home" class="main_link"><li><a href="index.php">Home</a></li></div>
 					<div id="about" class="main_link"><li><a id="about" class="main_link" href="about.php">About</a></li></div>
-					<div id="blog" class="main_link"><li><a href="http://www.maymillerricci.wordpress.com">Blog</a></li></div>
+					<div id="blog" class="main_link"><li><a href="http://www.maymillerricci.wordpress.com" target="_blank">Blog</a></li></div>
 					<div id="portfolio" class="main_link"><li><a id="portfolio" class="main_link" href="portfolio.php">Portfolio</a></li></div>
 				</ul>
 			</div> <!-- close sidebar div -->
