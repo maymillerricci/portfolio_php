@@ -1,7 +1,5 @@
 <?php include("template_header.php"); ?>
 
-	
-
 	<a href="http://www.maymillerricci.wordpress.com">
 		<img src="assets/images/stars.jpg" alt="moon and stars blog icon"></a>
 	<p class="fix_height"><a href="http://www.maymillerricci.wordpress.com">My blog: The Coding Road</a> - Read my blog about learning to code and attending Coding Dojo bootcamp.</p>

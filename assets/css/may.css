@@ -61,6 +61,17 @@ h2 {
 a {
 	color: white;
 }
+div.active {
+	background-color: white;
+	width: 146px;
+	border: 2px solid #015C65;
+}
+div.active a {
+	color: #015C65;
+}
+div.active#home {
+	border-radius: 10px 10px 0px 0px;
+}
 ul {
 	list-style-type: none;
 }
