@@ -72,6 +72,9 @@ div.active a {
 div.active#home {
 	border-radius: 10px 10px 0px 0px;
 }
+a:hover, #header.section h1 a:hover {
+	color: #FFBC00;
+}
 ul {
 	list-style-type: none;
 }
