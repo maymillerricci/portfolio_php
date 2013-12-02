@@ -119,5 +119,5 @@ div#main_content p.project_link, div#main_content p.project_explanation {
 }
 div#main_content p.project_explanation {
 	font-size: 1em;
-
+	padding-bottom: 10px;
 }
