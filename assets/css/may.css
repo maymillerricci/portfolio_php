@@ -86,7 +86,7 @@ li {
 	font-size: 1.2em;
 	padding: 10px 35px 10px 15px;
 }
-#main_content p.fix_height {
+.fix_height {
 	height: 80px;
 	padding: 10px 0px 0px 0px;
 }
@@ -95,7 +95,7 @@ li {
 }
 #main_content img {
 	float: left;
-	margin: 10px 10px;
+	margin: 10px;
 	height: 80px;
 	clear: both;
 }
@@ -111,13 +111,18 @@ h3.project_title {
 	margin: 20px 0px 0px 20px;
 	text-decoration: underline;
 	font-size: 1.3em;
+	clear: both;
 }
 div#main_content p.project_link, div#main_content p.project_explanation {
-	margin-left: 40px;
-	margin-right: 40px;
 	padding: 0;
 }
 div#main_content p.project_explanation {
 	font-size: 1em;
 	padding-bottom: 10px;
+	float: left;
+	width: 550px;
+	margin-left: 2px;
+}
+div#main_content div.fix_height a img.to_sepia.no_margin_top {
+	margin-top: 2px;
 }
